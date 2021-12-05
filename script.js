@@ -21,6 +21,7 @@ for (let i = 0; i < boxes.length; i++) {
 }
 
 let symbol = "X" 
+
 function addSymbol() {
     if(symbol === "X"){
         symbol = "O"
