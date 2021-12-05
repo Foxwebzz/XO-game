@@ -11,6 +11,7 @@ function createTable() {
         `
     }
     boxesContainer.innerHTML = text
+    // asdada
 }
 
 let boxes = document.querySelectorAll('.box')
